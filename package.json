@@ -1,0 +1,12 @@
+{
+  "name": "tra-moc-lanh-landing",
+  "version": "1.0.0",
+  "description": "Landing page cho thương hiệu Trà Mộc Lành",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
